@@ -1,3 +1,6 @@
+# Ignore one data file because it is large and can be regenerated from the source data
+/shopee-product-matching-data/train_images
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
