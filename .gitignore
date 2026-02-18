@@ -1,3 +1,6 @@
+# Ignore virual env
+/search_venv
+
 # Ignore one data file because it is large and can be regenerated from the source data
 /shopee-product-matching-data/train_images
 
